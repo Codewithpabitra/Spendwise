@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise",
+  "description": "AI-powered personal finance, budgeting, and receipt scanner application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
